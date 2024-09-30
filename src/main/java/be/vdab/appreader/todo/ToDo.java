@@ -1,4 +1,4 @@
-package be.vdab.appreader;
+package be.vdab.appreader.todo;
 
 import java.time.LocalDateTime;
 
